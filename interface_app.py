@@ -10,8 +10,8 @@ import pickle
 import os
 import streamlit as st
 
-# import sklearn
-# from sklearn.neural_network import MLPClassifier
+import sklearn
+from sklearn.neural_network import MLPClassifier
 
 
 #%% Load ML model
